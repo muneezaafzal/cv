@@ -21,17 +21,17 @@ body {
 }
 .left {
 	position: initial;
-	background-color: rgb(126, 219, 231);
+	background-color: rgb(255,255,255);
 	padding: 20px;
 
 }
 .right {
 	position: initial;
-	background-color: rgb(162, 202, 206);
+	background-color: rgb(0,0,255);
 	padding: 20px;
 
 }
-.image, .Contact, .Skills, .Language, .Hobbies, .title,
+.image, .Contact, .Skills, .Language, .Nationality, .Religion, .title,
 .Summary, .Experience, .Education, .project {
 	margin-bottom: 30px;
 }
