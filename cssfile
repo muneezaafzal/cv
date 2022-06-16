@@ -31,7 +31,7 @@ body {
 	padding: 20px;
 
 }
-.image, .Contact, .Skills, .Language, .Nationality, .Religion, .title,
+.image, .Contact, .Skills, .Language, .Nationality, .Religion, .Certifications, .title,
 .Summary, .Experience, .Education, .project {
 	margin-bottom: 30px;
 }
